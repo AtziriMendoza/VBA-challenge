@@ -78,9 +78,6 @@ Sub MultipleYearStockData()
         ' Move to the next row in the summary table
         summary_table_row = summary_table_row + 1
         
-        
-    
-    
     Next i
 
     ' Format the percent change column to a percent
